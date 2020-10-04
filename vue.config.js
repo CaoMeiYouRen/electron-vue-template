@@ -11,7 +11,7 @@ module.exports = {
         // hot: true, // 启用热更新
         // compress: true, // 是否启用gzip压缩
     },
-    productionSourceMap: false, // 移除生产环境的 source map
+    productionSourceMap: process.env.NODE_ENV === 'development', // 移除生产环境的 source map
     chainWebpack: (config) => {
         config.plugin('html').tap(([options]) => {
             options.title = pkg.name
@@ -51,19 +51,13 @@ module.exports = {
                             ],
                         },
                         {
-                            target: 'msi',
-                            arch: [
-                                'x64',
-                            ],
-                        },
-                        {
                             target: 'zip',
                             arch: [
                                 'x64',
                             ],
                         },
                     ],
-                    icon: './build/favicon-256x256.ico',
+                    icon: './build/favicon.ico',
                 },
                 nsis: {
                     oneClick: false,
