@@ -4,6 +4,7 @@
   "private": true,
   "description": "electron + vue + ts + scss 项目模板",
   "author": "CaoMeiYouRen",
+  "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "rimraf dist_electron && vue-cli-service build",
