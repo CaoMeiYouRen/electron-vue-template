@@ -7,9 +7,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
-    "build": "rimraf dist_electron && vue-cli-service build",
+    "build": "vue-cli-service build",
     "lint": "cross-env NODE_ENV=production eslint src --fix --ext .js,.ts,.vue",
-    "electron:build": "vue-cli-service electron:build",
+    "electron:build": "rimraf dist_electron && vue-cli-service electron:build",
     "electron:dev": "vue-cli-service electron:serve",
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps"

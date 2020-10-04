@@ -42,6 +42,10 @@ module.exports = {
                 preload: 'src/preload.ts',
             },
             builderOptions: {
+                linux: {
+                    target: ['zip', 'tar.gz'],
+                    icon: './build/favicon.ico',
+                },
                 win: {
                     target: [
                         {
