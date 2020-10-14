@@ -29,7 +29,7 @@ module.exports = {
         config.plugins.push(
             // @ts-ignore
             new StyleLintPlugin({
-                files: ['src/**/*.{vue,html,css,scss,sass,less}'],
+                files: ['src/**/*.{vue,html,css,scss,sass}'],
                 failOnError: false,
                 cache: true,
                 fix: true,
