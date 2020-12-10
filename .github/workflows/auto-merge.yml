@@ -1,8 +1,10 @@
 name: Dependabot Auto Merge
-on: [pull_request]
+  pull_request:
+    types: [labeled]
 
 jobs:
-  test:
+  merge:
+    if: github.event.label.name == 'dependencies'
     name: Dependabot Auto Merge
     runs-on: ubuntu-latest
     steps:
