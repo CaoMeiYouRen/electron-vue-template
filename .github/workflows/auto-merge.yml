@@ -28,5 +28,6 @@ jobs:
       - run: npm run electron:build
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
-          target: patch
+          command: merge
+          target: minor
           github-token: ${{ secrets.GH_TOKEN }}
