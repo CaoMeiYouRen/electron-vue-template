@@ -4784,10 +4784,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha1-FLqDpdNz49MR5a/KKc9b+tllvzQ=
 
-eslint-config-cmyr@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.0.8.tgz#a2e1a5dee43434808cbdaecd1e2a909dab1f4508"
-  integrity sha512-0r7BVmFA2m+KN9Y45Pl12EXUJZYeaaIFWg/jpXy9nKcR6bQMqda3EYMkK3sAYul3DcvZWKIJLUyRlQxU8KaVfQ==
+eslint-config-cmyr@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.0.9.tgz#8a5db2664de620ffaf3423dd54882ae65187734d"
+  integrity sha512-6buEzSygNvHrKVzaBiFRhVoKPAZVKZhAddDfgex5Ny2ng0S33acDL8EwcNg3UqwLMT51VAEbK5lxbgMEkKGFPA==
 
 eslint-config-prettier@^6.0.0:
   version "6.15.0"
