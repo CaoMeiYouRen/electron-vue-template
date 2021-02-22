@@ -25,7 +25,7 @@
     "lodash": "^4.17.20",
     "normalize.css": "^8.0.1",
     "vue": "^2.6.12",
-    "vue-composable": "^1.0.0-beta.16",
+    "vue-composable": "^1.0.0-beta.18",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
@@ -59,7 +59,7 @@
     "prettier": "^2.1.2",
     "sass": "^1.32.8",
     "sass-loader": "^10.1.1",
-    "stylelint": "^13.10.0",
+    "stylelint": "^13.11.0",
     "stylelint-config-cmyr": "^0.2.1",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^20.0.0",

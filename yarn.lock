@@ -11321,10 +11321,10 @@ stylelint-webpack-plugin@^2.1.1:
     micromatch "^4.0.2"
     schema-utils "^3.0.0"
 
-stylelint@^13.10.0:
-  version "13.10.0"
-  resolved "https://registry.yarnpkg.com/stylelint/-/stylelint-13.10.0.tgz#67b0c6f378c3fa61aa569a55d38feb8570b0b587"
-  integrity sha512-eDuLrL0wzPKbl5/TbNGZcbw0lTIGbDEr5W6lCODvb1gAg0ncbgCRt7oU0C2VFDvbrcY0A3MFZOwltwTRmc0XCw==
+stylelint@^13.11.0:
+  version "13.11.0"
+  resolved "https://registry.yarnpkg.com/stylelint/-/stylelint-13.11.0.tgz#591981fbdd68c9d3d3e6147a0cd6a07539fc216d"
+  integrity sha512-DhrKSWDWGZkCiQMtU+VroXM6LWJVC8hSK24nrUngTSQvXGK75yZUq4yNpynqrxD3a/fzKMED09V+XxO4z4lTbw==
   dependencies:
     "@stylelint/postcss-css-in-js" "^0.37.2"
     "@stylelint/postcss-markdown" "^0.36.2"
@@ -12499,10 +12499,10 @@ vue-cli-plugin-electron-builder@^1.4.6:
     webpack-chain "^5.0.0"
     yargs "^14.0.0"
 
-vue-composable@^1.0.0-beta.16:
-  version "1.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.16.tgz#e4c42d0ed0105923d12a8cd20d851d6578b86d1c"
-  integrity sha512-7pr0ruCiO60D+wVs0T+S5haUJ6X4DTGkJ6EO8k2nLok0GOlDzebt/ft5DPMXNS/WOqDqOrgoC+TNusOuHW7Xtg==
+vue-composable@^1.0.0-beta.18:
+  version "1.0.0-beta.18"
+  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.18.tgz#12b0daf9077ecf5ef48f78992c269184ff03e685"
+  integrity sha512-d6cr+C28Bl2+M+kg2gDXPRJ69XlsatzgZ/TamgJQ0MOCDsmOrOthHy4EyJNXpHcSnUJc4ruLAjttrbdFtJIlSA==
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.3"
 
