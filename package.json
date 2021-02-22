@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/electron-devtools-installer": "^2.2.0",
     "@types/lodash": "^4.14.168",
-    "@types/node": "^14.14.30",
+    "@types/node": "^14.14.31",
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
     "@vue/cli-plugin-babel": "^4.5.11",
@@ -59,7 +59,7 @@
     "prettier": "^2.1.2",
     "sass": "^1.32.8",
     "sass-loader": "^10.1.1",
-    "stylelint": "^13.10.0",
+    "stylelint": "^13.11.0",
     "stylelint-config-cmyr": "^0.2.1",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^20.0.0",
