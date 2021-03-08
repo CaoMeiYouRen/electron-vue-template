@@ -12666,10 +12666,10 @@ vue-cli-plugin-electron-builder@^1.4.6:
     webpack-chain "^5.0.0"
     yargs "^14.0.0"
 
-vue-composable@^1.0.0-beta.18:
-  version "1.0.0-beta.18"
-  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.18.tgz#12b0daf9077ecf5ef48f78992c269184ff03e685"
-  integrity sha512-d6cr+C28Bl2+M+kg2gDXPRJ69XlsatzgZ/TamgJQ0MOCDsmOrOthHy4EyJNXpHcSnUJc4ruLAjttrbdFtJIlSA==
+vue-composable@^1.0.0-beta.20:
+  version "1.0.0-beta.20"
+  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.20.tgz#cb9498b4e60da8281587a4fdb6f417b2160ff84e"
+  integrity sha512-qTBVGhNP1h5W64eePayza5mrjCNaRZQMipSkJd3AKNbtr3/JtDRpdICCC6tuA6pie4FzhoLyyfQIojsVhKpPOg==
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.3"
 
