@@ -5,7 +5,7 @@ on:
 
 jobs:
   merge:
-    if: github.event.label.name == 'dependencies'
+    if: contains(github.event.pull_request.labels.*.name, 'dependencies')
     name: Dependabot Auto Merge
     runs-on: ubuntu-latest
     steps:
@@ -25,9 +25,10 @@ jobs:
           key: npm-${{ runner.os }}-${{ hashFiles('package.json') }}
       - run: yarn
       - run: npm run lint
-      - run: npm run electron:build
-      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+      - run: npm run build
+      - name: Merge branch
+        uses: devmasx/merge-branch@v1.3.1
         with:
-          command: merge
-          target: minor
-          github-token: ${{ secrets.GH_TOKEN }}
+          label_name: "dependencies"
+          target_branch: "master"
+          github_token: ${{ github.token }}
