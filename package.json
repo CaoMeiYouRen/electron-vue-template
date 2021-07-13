@@ -58,7 +58,7 @@
     "lint-staged": "^11.0.1",
     "prettier": "^2.3.2",
     "sass": "^1.35.2",
-    "sass-loader": "^10.1.1",
+    "sass-loader": "^12.1.0",
     "stylelint": "^13.13.1",
     "stylelint-config-cmyr": "^0.2.1",
     "stylelint-config-rational-order": "^0.1.2",
