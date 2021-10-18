@@ -1802,10 +1802,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@vue/devtools-api@^6.0.0-beta.3":
-  version "6.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.0.0-beta.3.tgz#5a66cc8beed688fe18c272ee7a8bd8ed7e35a54c"
-  integrity sha512-iJQhVyWzWIJxYIMjbZpljZQfU4gL2IMD5YQm3HXO8tQRU7RqqnD3f1WHn+vrqvrSvM8Qw2BeNugwdBBmbK8Oxg==
+"@vue/devtools-api@^6.0.0-beta.19":
+  version "6.0.0-beta.19"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.0.0-beta.19.tgz#f8e88059daa424515992426a0c7ea5cde07e99bf"
+  integrity sha512-ObzQhgkoVeoyKv+e8+tB/jQBL2smtk/NmC9OmFK8UqdDpoOdv/Kf9pyDWL+IFyM7qLD2C75rszJujvGSPSpGlw==
 
 "@vue/eslint-config-prettier@^6.0.0":
   version "6.0.0"
@@ -12147,12 +12147,12 @@ vue-cli-plugin-electron-builder@^2.1.1:
     webpack-merge "^4.2.2"
     yargs "^15.3.1"
 
-vue-composable@^1.0.0-beta.23:
-  version "1.0.0-beta.23"
-  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.23.tgz#1085bcd8360d9ed309ec5c33e8242611790cd5c5"
-  integrity sha512-jtlEHcaLbN6ENHIiqABeBmGbtUuUEKCRaByerHudlpEcHTN4B47P/uRcrg93iL1iuWHl9OQeRqkyFIzjCF3MTQ==
+vue-composable@^1.0.0-beta.24:
+  version "1.0.0-beta.24"
+  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.24.tgz#04032163fb90adfb4c1f0f5d962f9bca00398341"
+  integrity sha512-rVxqIk+CCBDNlu7MK59FB6hIHbjpaNszSZ3o1fReXiDKpdw2AAnSWx5vqUpJgC4yGlUzBMJ2eUQIjij5/wr8Kg==
   dependencies:
-    "@vue/devtools-api" "^6.0.0-beta.3"
+    "@vue/devtools-api" "^6.0.0-beta.19"
 
 vue-eslint-parser@^7.0.0, vue-eslint-parser@^7.10.0:
   version "7.10.0"
