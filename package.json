@@ -51,7 +51,7 @@
     "electron-packager": "^15.4.0",
     "electron-rebuild": "^3.2.5",
     "eslint": "^7.32.0",
-    "eslint-config-cmyr": "^1.0.10",
+    "eslint-config-cmyr": "^1.1.13",
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-vue": "^7.20.0",
     "fs-extra": "^10.0.0",
