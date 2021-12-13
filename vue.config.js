@@ -64,6 +64,9 @@ module.exports = {
                         },
                     ],
                     icon: './build/favicon.ico',
+                    // sign: false,
+                    // signAndEditExecutable: false,
+                    // verifyUpdateCodeSignature: false,
                 },
                 nsis: {
                     oneClick: false,
