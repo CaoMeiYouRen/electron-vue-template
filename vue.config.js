@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const pkg = require('./package.json')
 process.env.VUE_APP_VERSION = pkg.version
 
@@ -18,7 +19,7 @@ module.exports = {
             return [options]
         })
     },
-    configureWebpack: config => {
+    configureWebpack: (config) => {
         config.node = {
             Buffer: false,
             __filename: false,
@@ -27,6 +28,7 @@ module.exports = {
             path: false,
         }
         config.plugins.push(
+            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
             // @ts-ignore
             new StyleLintPlugin({
                 files: ['src/**/*.{vue,html,css,scss,sass}'],
