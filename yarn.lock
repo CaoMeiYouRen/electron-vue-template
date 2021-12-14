@@ -11619,6 +11619,17 @@ ts-loader@^6.2.2:
     micromatch "^4.0.0"
     semver "^6.0.0"
 
+ts-loader@^8.0.10:
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-8.0.10.tgz#4af4afb8d26847290cd010df93a4c172df92278f"
+  integrity sha512-5fVbbZldz6LQi6RQ0v1P7lZ98CZGlQyM8b4xGZXw3G/XUqL8GIH+Ib6H01nImPhkHZ9+PVXZgTb+v3fRsaIHlg==
+  dependencies:
+    chalk "^2.3.0"
+    enhanced-resolve "^4.0.0"
+    loader-utils "^1.0.2"
+    micromatch "^4.0.0"
+    semver "^6.0.0"
+
 ts-node-dev@^1.1.8:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/ts-node-dev/-/ts-node-dev-1.1.8.tgz#95520d8ab9d45fffa854d6668e2f8f9286241066"
