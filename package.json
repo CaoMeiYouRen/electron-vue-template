@@ -43,7 +43,7 @@
     "@vue/cli-plugin-vuex": "^5.0.8",
     "@vue/cli-service": "^4.5.15",
     "@vue/eslint-config-prettier": "^7.0.0",
-    "@vue/eslint-config-typescript": "^7.0.0",
+    "@vue/eslint-config-typescript": "^11.0.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "cross-env": "^7.0.2",
     "electron-builder": "^23.1.0",
