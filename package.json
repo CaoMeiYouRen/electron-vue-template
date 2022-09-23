@@ -17,7 +17,7 @@
   },
   "main": "background.js",
   "dependencies": {
-    "@vue/composition-api": "^1.7.0",
+    "@vue/composition-api": "^1.7.1",
     "animate.css": "^4.1.1",
     "axios": "^0.27.2",
     "core-js": "^3.25.2",
