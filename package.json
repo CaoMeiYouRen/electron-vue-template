@@ -20,7 +20,7 @@
     "@vue/composition-api": "^1.7.1",
     "animate.css": "^4.1.1",
     "axios": "^0.27.2",
-    "core-js": "^3.25.4",
+    "core-js": "^3.25.5",
     "dayjs": "^1.11.5",
     "electron": "^21.0.1",
     "lodash": "^4.17.21",
