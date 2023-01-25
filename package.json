@@ -28,7 +28,7 @@
     "vue": "^2.7.14",
     "vue-composable": "^1.0.0-beta.24",
     "vue-router": "^3.6.5",
-    "vuex": "^3.6.2"
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@types/electron-devtools-installer": "^2.2.2",
