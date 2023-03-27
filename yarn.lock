@@ -5810,10 +5810,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha1-FLqDpdNz49MR5a/KKc9b+tllvzQ=
 
-eslint-config-cmyr@^1.1.24:
-  version "1.1.24"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.24.tgz#1eabee691c13e45bf632dcfae49929079f1d80b3"
-  integrity sha512-QgjxOn41zKiv5P7kYVwKxb/HJFiQ2Qa5r490rzzTVPxhav2nzyiu7rAkDq/9ePbqhmC7eMvXxqSpPB5Xj8qZWQ==
+eslint-config-cmyr@^1.1.27:
+  version "1.1.27"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.27.tgz#95ff0b31caada15d2b796434b2f90fac25618d50"
+  integrity sha512-iYe76u/NHAYiPbcYLm2pUWMlFB/akEPSf+D9cv3NQG+WzF0fIcdtIhD/jxcNUGq54Ri9JHhVPUrQ8W5Jr7KS1g==
 
 eslint-config-prettier@^8.3.0:
   version "8.3.0"
