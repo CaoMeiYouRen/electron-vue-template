@@ -19,7 +19,7 @@
   "dependencies": {
     "@vue/composition-api": "^1.7.1",
     "animate.css": "^4.1.1",
-    "axios": "^1.3.4",
+    "axios": "^1.3.5",
     "core-js": "^3.30.0",
     "dayjs": "^1.11.7",
     "electron": "^24.0.0",
