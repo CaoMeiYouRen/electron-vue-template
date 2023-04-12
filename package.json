@@ -57,7 +57,7 @@
     "fs-extra": "^11.1.1",
     "lint-staged": "^13.2.1",
     "prettier": "^2.8.7",
-    "sass": "^1.61.0",
+    "sass": "^1.62.0",
     "sass-loader": "^10.1.1",
     "stylelint": "^13.13.1",
     "stylelint-config-cmyr": "^0.2.1",
