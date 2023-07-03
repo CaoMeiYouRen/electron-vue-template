@@ -21,7 +21,7 @@
     "animate.css": "^4.1.1",
     "axios": "^1.4.0",
     "core-js": "^3.31.0",
-    "dayjs": "^1.11.8",
+    "dayjs": "^1.11.9",
     "electron": "^25.2.0",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
