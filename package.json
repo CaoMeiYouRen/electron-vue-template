@@ -31,7 +31,7 @@
     "vuex": "^3.6.2"
   },
   "devDependencies": {
-    "@types/electron-devtools-installer": "^2.2.2",
+    "@types/electron-devtools-installer": "^2.2.3",
     "@types/lodash": "^4.14.198",
     "@types/node": "^20.6.3",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
