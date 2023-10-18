@@ -1630,10 +1630,10 @@
   dependencies:
     "@types/ms" "*"
 
-"@types/electron-devtools-installer@^2.2.3":
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/@types/electron-devtools-installer/-/electron-devtools-installer-2.2.3.tgz#58009e74c4b69003f32eff4efdf6586e5b29e26b"
-  integrity sha512-a/+y/IvUKiNAFDYuzxuqcfj40RZc+oFmvwvXnysHTtYRmm4InLVJf20cmIb0//s/HKdbZoQV1srT9/XDd+Efrg==
+"@types/electron-devtools-installer@^2.2.4":
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/@types/electron-devtools-installer/-/electron-devtools-installer-2.2.4.tgz#4d9f9ef0aadfdd741bea6ba511722275bba264db"
+  integrity sha512-SA7SjTduhf8KSytsFQP4oersLPRxlCZLyg318Lwb53kci7x3JLaUf9M1vcLcLuPAVfo6xgQEAmbyPN3O5br94g==
 
 "@types/eslint-scope@^3.7.3":
   version "3.7.4"
