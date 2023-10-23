@@ -71,6 +71,6 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.2.2",
     "vue-cli-plugin-electron-builder": "^2.1.1",
-    "vue-template-compiler": "^2.7.14"
+    "vue-template-compiler": "^2.7.15"
   }
 }
