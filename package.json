@@ -67,7 +67,7 @@
     "stylelint-scss": "^3.21.0",
     "stylelint-webpack-plugin": "^3.1.0",
     "ts-loader": "^9.5.1",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.3.3",
     "vue-cli-plugin-electron-builder": "^2.1.1",
