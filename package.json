@@ -22,7 +22,7 @@
     "axios": "^1.6.5",
     "core-js": "^3.35.0",
     "dayjs": "^1.11.10",
-    "electron": "^28.1.4",
+    "electron": "^28.2.0",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "vue": "^3.4.15",
